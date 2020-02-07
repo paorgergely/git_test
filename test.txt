@@ -1,1 +1,1 @@
-Szia!
+Töröltem a Szia sort és lokális repóban hozzáadtam egy sort.
